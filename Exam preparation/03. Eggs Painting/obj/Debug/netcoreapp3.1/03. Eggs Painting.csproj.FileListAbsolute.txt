@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Exam preparation\03. Eggs Painting\bin\Debug\netcoreapp3.1\03. Eggs Painting.exe
+C:\Users\HP\source\repos\Exam preparation\03. Eggs Painting\bin\Debug\netcoreapp3.1\03. Eggs Painting.deps.json
+C:\Users\HP\source\repos\Exam preparation\03. Eggs Painting\bin\Debug\netcoreapp3.1\03. Eggs Painting.runtimeconfig.json
+C:\Users\HP\source\repos\Exam preparation\03. Eggs Painting\bin\Debug\netcoreapp3.1\03. Eggs Painting.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Exam preparation\03. Eggs Painting\bin\Debug\netcoreapp3.1\03. Eggs Painting.dll
+C:\Users\HP\source\repos\Exam preparation\03. Eggs Painting\bin\Debug\netcoreapp3.1\03. Eggs Painting.pdb
+C:\Users\HP\source\repos\Exam preparation\03. Eggs Painting\obj\Debug\netcoreapp3.1\03. Eggs Painting.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Exam preparation\03. Eggs Painting\obj\Debug\netcoreapp3.1\03. Eggs Painting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Exam preparation\03. Eggs Painting\obj\Debug\netcoreapp3.1\03. Eggs Painting.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Exam preparation\03. Eggs Painting\obj\Debug\netcoreapp3.1\03. Eggs Painting.AssemblyInfo.cs
+C:\Users\HP\source\repos\Exam preparation\03. Eggs Painting\obj\Debug\netcoreapp3.1\03. Eggs Painting.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Exam preparation\03. Eggs Painting\obj\Debug\netcoreapp3.1\03. Eggs Painting.dll
+C:\Users\HP\source\repos\Exam preparation\03. Eggs Painting\obj\Debug\netcoreapp3.1\03. Eggs Painting.pdb
+C:\Users\HP\source\repos\Exam preparation\03. Eggs Painting\obj\Debug\netcoreapp3.1\03. Eggs Painting.genruntimeconfig.cache

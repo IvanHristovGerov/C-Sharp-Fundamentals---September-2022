@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\01. Student Information\Basic Syntax, Conditional Statements and Loops - Lab\bin\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops - Lab.exe
+C:\Users\HP\source\repos\01. Student Information\Basic Syntax, Conditional Statements and Loops - Lab\bin\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops - Lab.deps.json
+C:\Users\HP\source\repos\01. Student Information\Basic Syntax, Conditional Statements and Loops - Lab\bin\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops - Lab.runtimeconfig.json
+C:\Users\HP\source\repos\01. Student Information\Basic Syntax, Conditional Statements and Loops - Lab\bin\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops - Lab.runtimeconfig.dev.json
+C:\Users\HP\source\repos\01. Student Information\Basic Syntax, Conditional Statements and Loops - Lab\bin\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops - Lab.dll
+C:\Users\HP\source\repos\01. Student Information\Basic Syntax, Conditional Statements and Loops - Lab\bin\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops - Lab.pdb
+C:\Users\HP\source\repos\01. Student Information\Basic Syntax, Conditional Statements and Loops - Lab\obj\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops - Lab.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\01. Student Information\Basic Syntax, Conditional Statements and Loops - Lab\obj\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\01. Student Information\Basic Syntax, Conditional Statements and Loops - Lab\obj\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops - Lab.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\01. Student Information\Basic Syntax, Conditional Statements and Loops - Lab\obj\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops - Lab.AssemblyInfo.cs
+C:\Users\HP\source\repos\01. Student Information\Basic Syntax, Conditional Statements and Loops - Lab\obj\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops - Lab.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\01. Student Information\Basic Syntax, Conditional Statements and Loops - Lab\obj\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops - Lab.dll
+C:\Users\HP\source\repos\01. Student Information\Basic Syntax, Conditional Statements and Loops - Lab\obj\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops - Lab.pdb
+C:\Users\HP\source\repos\01. Student Information\Basic Syntax, Conditional Statements and Loops - Lab\obj\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops - Lab.genruntimeconfig.cache

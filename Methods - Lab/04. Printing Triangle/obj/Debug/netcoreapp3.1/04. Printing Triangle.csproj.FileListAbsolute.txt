@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.exe
+C:\Users\HP\source\repos\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.deps.json
+C:\Users\HP\source\repos\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.runtimeconfig.json
+C:\Users\HP\source\repos\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.dll
+C:\Users\HP\source\repos\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.pdb
+C:\Users\HP\source\repos\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.AssemblyInfo.cs
+C:\Users\HP\source\repos\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.dll
+C:\Users\HP\source\repos\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.pdb
+C:\Users\HP\source\repos\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.genruntimeconfig.cache

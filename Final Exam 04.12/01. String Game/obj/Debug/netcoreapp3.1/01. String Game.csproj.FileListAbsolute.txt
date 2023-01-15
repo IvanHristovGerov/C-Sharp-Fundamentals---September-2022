@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Final Exam 04.12\01. String Game\bin\Debug\netcoreapp3.1\01. String Game.exe
+C:\Users\HP\source\repos\Final Exam 04.12\01. String Game\bin\Debug\netcoreapp3.1\01. String Game.deps.json
+C:\Users\HP\source\repos\Final Exam 04.12\01. String Game\bin\Debug\netcoreapp3.1\01. String Game.runtimeconfig.json
+C:\Users\HP\source\repos\Final Exam 04.12\01. String Game\bin\Debug\netcoreapp3.1\01. String Game.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Final Exam 04.12\01. String Game\bin\Debug\netcoreapp3.1\01. String Game.dll
+C:\Users\HP\source\repos\Final Exam 04.12\01. String Game\bin\Debug\netcoreapp3.1\01. String Game.pdb
+C:\Users\HP\source\repos\Final Exam 04.12\01. String Game\obj\Debug\netcoreapp3.1\01. String Game.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Final Exam 04.12\01. String Game\obj\Debug\netcoreapp3.1\01. String Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Final Exam 04.12\01. String Game\obj\Debug\netcoreapp3.1\01. String Game.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Final Exam 04.12\01. String Game\obj\Debug\netcoreapp3.1\01. String Game.AssemblyInfo.cs
+C:\Users\HP\source\repos\Final Exam 04.12\01. String Game\obj\Debug\netcoreapp3.1\01. String Game.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Final Exam 04.12\01. String Game\obj\Debug\netcoreapp3.1\01. String Game.dll
+C:\Users\HP\source\repos\Final Exam 04.12\01. String Game\obj\Debug\netcoreapp3.1\01. String Game.pdb
+C:\Users\HP\source\repos\Final Exam 04.12\01. String Game\obj\Debug\netcoreapp3.1\01. String Game.genruntimeconfig.cache

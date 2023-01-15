@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Final Exam 04.12\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.exe
+C:\Users\HP\source\repos\Final Exam 04.12\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.deps.json
+C:\Users\HP\source\repos\Final Exam 04.12\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.runtimeconfig.json
+C:\Users\HP\source\repos\Final Exam 04.12\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Final Exam 04.12\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.dll
+C:\Users\HP\source\repos\Final Exam 04.12\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.pdb
+C:\Users\HP\source\repos\Final Exam 04.12\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Final Exam 04.12\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Final Exam 04.12\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Final Exam 04.12\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.AssemblyInfo.cs
+C:\Users\HP\source\repos\Final Exam 04.12\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Final Exam 04.12\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.dll
+C:\Users\HP\source\repos\Final Exam 04.12\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.pdb
+C:\Users\HP\source\repos\Final Exam 04.12\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.genruntimeconfig.cache

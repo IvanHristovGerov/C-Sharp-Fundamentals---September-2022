@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.AssemblyInfo.cs
+C:\Users\HP\source\repos\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.csproj.CoreCompileInputs.cache

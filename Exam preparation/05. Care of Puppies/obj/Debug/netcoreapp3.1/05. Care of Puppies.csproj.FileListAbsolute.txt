@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Exam preparation\05. Care of Puppies\bin\Debug\netcoreapp3.1\05. Care of Puppies.exe
+C:\Users\HP\source\repos\Exam preparation\05. Care of Puppies\bin\Debug\netcoreapp3.1\05. Care of Puppies.deps.json
+C:\Users\HP\source\repos\Exam preparation\05. Care of Puppies\bin\Debug\netcoreapp3.1\05. Care of Puppies.runtimeconfig.json
+C:\Users\HP\source\repos\Exam preparation\05. Care of Puppies\bin\Debug\netcoreapp3.1\05. Care of Puppies.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Exam preparation\05. Care of Puppies\bin\Debug\netcoreapp3.1\05. Care of Puppies.dll
+C:\Users\HP\source\repos\Exam preparation\05. Care of Puppies\bin\Debug\netcoreapp3.1\05. Care of Puppies.pdb
+C:\Users\HP\source\repos\Exam preparation\05. Care of Puppies\obj\Debug\netcoreapp3.1\05. Care of Puppies.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Exam preparation\05. Care of Puppies\obj\Debug\netcoreapp3.1\05. Care of Puppies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Exam preparation\05. Care of Puppies\obj\Debug\netcoreapp3.1\05. Care of Puppies.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Exam preparation\05. Care of Puppies\obj\Debug\netcoreapp3.1\05. Care of Puppies.AssemblyInfo.cs
+C:\Users\HP\source\repos\Exam preparation\05. Care of Puppies\obj\Debug\netcoreapp3.1\05. Care of Puppies.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Exam preparation\05. Care of Puppies\obj\Debug\netcoreapp3.1\05. Care of Puppies.dll
+C:\Users\HP\source\repos\Exam preparation\05. Care of Puppies\obj\Debug\netcoreapp3.1\05. Care of Puppies.pdb
+C:\Users\HP\source\repos\Exam preparation\05. Care of Puppies\obj\Debug\netcoreapp3.1\05. Care of Puppies.genruntimeconfig.cache

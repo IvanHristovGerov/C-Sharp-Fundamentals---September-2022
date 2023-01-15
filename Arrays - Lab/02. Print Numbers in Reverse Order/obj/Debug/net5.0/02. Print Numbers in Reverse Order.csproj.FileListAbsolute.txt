@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.exe
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.deps.json
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.runtimeconfig.json
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.dll
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.pdb
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.dll
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\refint\02. Print Numbers in Reverse Order.dll
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.pdb
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.genruntimeconfig.cache
+C:\Users\HP\source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\ref\02. Print Numbers in Reverse Order.dll

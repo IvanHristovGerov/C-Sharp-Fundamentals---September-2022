@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Mid Exam!\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+C:\Users\HP\source\repos\Mid Exam!\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+C:\Users\HP\source\repos\Mid Exam!\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+C:\Users\HP\source\repos\Mid Exam!\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Mid Exam!\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\HP\source\repos\Mid Exam!\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\HP\source\repos\Mid Exam!\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Mid Exam!\Numbers\obj\Debug\netcoreapp3.1\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Mid Exam!\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Mid Exam!\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+C:\Users\HP\source\repos\Mid Exam!\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Mid Exam!\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\HP\source\repos\Mid Exam!\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\HP\source\repos\Mid Exam!\Numbers\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache
